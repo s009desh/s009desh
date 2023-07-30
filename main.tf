@@ -4,8 +4,8 @@
 provider "aws" {
   region = "ap-south-1" # Change to your desired AWS region
 
-  access_key = "AKIARTK54MSXNJSVQE52"    # Sample access key (for testing purposes only)
-  secret_key = "eeTd7uCFBNEGlGZbEiQPvrz/5vOgfqQXHBGf7K7S"   # Sample secret access key (for testing purposes only)
+  access_key = ""    # Sample access key (for testing purposes only)
+  secret_key = ""   # Sample secret access key (for testing purposes only)
 }
 
 # VPC Configuration
